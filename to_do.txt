@@ -1,7 +1,0 @@
-Do multi threaded now, do it for output file (and do output file), it'll be the same as ~/Code/Github/website-sublister
-Add something like "--flag" or "--compilation-flags" to "compile.sh" because when you have other libs like cpr it's long, example : g++ main.cpp -lcpparser -o main -I include -L lib -lcpr
-make resume just like dirsearch, same for ascii, also, rename the project Dirbuster++
-add output file (and thread, like website-sublister)
-search how the cursor not moves with '\r' like in dirbuster for the progress bar
-do something simple like dirbuster (see "dirbuster --help")
-if line (so subfolder) starts with #, do not show
